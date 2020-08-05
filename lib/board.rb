@@ -35,7 +35,7 @@ row[7]
 # Position 9: Right
 row[8]
 
-board = [row 1, row 2, row 3]
+board = (row 1, row 2, row 3)
 
 puts board
 
