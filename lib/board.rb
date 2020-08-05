@@ -1,6 +1,7 @@
 # Define the variable board below.
-
+do
 board = [" | ", " | ", " | ", " | ", " | ", " | ", " | ", " | ", " | "]
+end
 
 row 1 = [" ", " ", " "]
  
@@ -12,8 +13,6 @@ row[1]
  
 # Position 3: Right
 row[2]
-
-  end
  
 row 2 = [" ", " ", " "]
 
