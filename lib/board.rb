@@ -13,7 +13,7 @@ row[1]
 # Position 3: Right
 row[2]
  
-row 2 = [" ", " ", " "]
+row 2 [" ", " ", " "]
 
 # Position 4: Left
 row[3]
@@ -24,7 +24,7 @@ row[4]
 # Position 6: Right
 row[5]
 
-row 3 = [" ", " ", " "]
+row 3 [" ", " ", " "]
 
 # Position 7: Left
 row[6]
