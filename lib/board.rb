@@ -19,4 +19,4 @@ row #=> [" ", "X", " "]
 
 board => row
 
-puts row
+puts board
