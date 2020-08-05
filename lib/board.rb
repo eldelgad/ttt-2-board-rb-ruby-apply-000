@@ -1,9 +1,8 @@
 # Define the variable board below.
 
-board = [" | ", " | ", " | ", " | ", " | ", " | ", " | ", " | ", " | "]do
+board = [" | ", " | ", " | ", " | ", " | ", " | ", " | ", " | ", " | "]
 
   do
-
 row 1 = [" ", " ", " "]
  
 # Position 1: Left
@@ -16,7 +15,6 @@ row[1]
 row[2]
 
   end
-end
  
 row 2 = [" ", " ", " "]
 
