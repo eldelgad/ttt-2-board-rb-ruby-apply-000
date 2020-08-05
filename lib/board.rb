@@ -17,4 +17,4 @@ row[2]
 row[1] = "X"
 row #=> [" ", "X", " "]
 
-puts board
+puts row
