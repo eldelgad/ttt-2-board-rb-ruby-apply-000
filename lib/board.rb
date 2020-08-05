@@ -2,7 +2,7 @@
 
 board = [" | ", " | ", " | ", " | ", " | ", " | ", " | ", " | ", " | "]
 
-row = [" ", " ", " "]
+row 1 = [" ", " ", " "]
  
 # Position 1: Left
 row[0]
@@ -13,8 +13,15 @@ row[1]
 # Position 3: Right
 row[2]
  
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
+row 2 = [" ", " ", " "]
+
+# Position 4: Left
+row[3]
+ 
+# Position 5: Middle
+row[4]
+ 
+# Position 6: Right
+row[5]
 
 puts board
